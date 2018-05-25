@@ -1,0 +1,22 @@
+{
+  "name": "DDRefresh",
+  "version": "0.1.0",
+  "summary": "A short description of DDRefresh.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanshuai.ding@duodian.com/DDRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanshuai.ding@duodian.com": "herodys@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanshuai.ding@duodian.com/DDRefresh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDRefresh/Classes/**/*"
+}

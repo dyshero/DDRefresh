@@ -1,0 +1,16 @@
+PODS:
+  - DDRefresh (0.1.0)
+
+DEPENDENCIES:
+  - DDRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  DDRefresh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DDRefresh: db02533625cbd02417ba491ea221333edb44b2bd
+
+PODFILE CHECKSUM: fd61cfa9ab15417c5806d5a36acad4d26ac01bae
+
+COCOAPODS: 1.3.1

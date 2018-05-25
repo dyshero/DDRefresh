@@ -1,0 +1,6 @@
+framework module DDRefresh {
+  umbrella header "DDRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
