@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DDRefresh'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DDRefresh.'
+  s.summary          = '一些简单的介绍.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+一些详细的介绍，个我卡的大吼道德
                        DESC
 
   s.homepage         = 'https://github.com/dyshero/DDRefresh'
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'DDRefresh' => ['DDRefresh/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.swift'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
