@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'DDRefresh'
+  s.name             = 'DingRefresh'
   s.version          = '0.1.0'
-  s.summary          = '一些简单的介绍.'
+  s.summary          = '一款Swift的刷新三方库.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-一些详细的介绍，个我卡的大吼道德
+    一款Swift的刷新三方库，上拉加载，下拉刷新
                        DESC
 
   s.homepage         = 'https://github.com/dyshero/DDRefresh'
@@ -30,8 +30,8 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'DDRefresh/Classes/**/*'
-  
+  s.source_files = 'DDRefresh/Classes/*.swift'
+
   # s.resource_bundles = {
   #   'DDRefresh' => ['DDRefresh/Assets/*.png']
   # }
