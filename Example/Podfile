@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DDRefresh_Example' do
+  pod 'DDRefresh', :path => '../'
+
+  target 'DDRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
